@@ -2,9 +2,9 @@
 
 Utilities, tools, and small apps for Final Cut Pro workflows.
 
-## Final Crack Pro
+## FCP7 Export Tool
 
-[Final Crack Pro](https://github.com/macvfx/final-crack-pro) recovers legacy
+[FCP7 Export Tool](https://github.com/macvfx/final-crack-pro) recovers legacy
 Final Cut Pro 7 `.fcp` project files by exporting XML that can be used in a
 modern recovery workflow for Final Cut Pro, DaVinci Resolve, or Adobe Premiere
 Pro. The macOS release bundles its own Python runtime, so users do not need to
