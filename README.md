@@ -20,8 +20,11 @@ For background on moving older projects forward, see
 
 ## Related projects
 
-- [FCPXML](https://github.com/macvfx/FCPXML) converts `.fcpxmld` bundles to
-  standalone `.fcpxml` documents.
+- [FCPXML](https://github.com/macvfx/FCPXML) hosts the **FCP Reports** macOS app —
+  library FCPXML capture and Excel/PDF reporting with drag-and-drop `.fcpxmld`
+  conversion — plus the **OpenFCPXMLKit**-powered `openfcpxml-report.sh` script,
+  which builds role-inventory and media-summary reports from a `.fcpxml` or
+  `.fcpxmld`.
 - [FCP Backup Manager](https://github.com/macvfx/FCP-Backup-Manager) archives
   and copies Final Cut Pro project backups to another destination.
 
